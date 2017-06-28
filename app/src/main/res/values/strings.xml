@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PostRetroFit2</string>
+    <string name="local_ip">http://10.0.0.2/</string>
+</resources>

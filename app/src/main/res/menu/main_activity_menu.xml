@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuShowSomeActivity"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="Some Data from server" />
+    <item
+        android:id="@+id/menuShowSetting"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="Setting" />
+</menu>
